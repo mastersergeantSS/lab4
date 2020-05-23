@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="enter_date">Введите дату:</string>
+    <string name="time_to">До наступления %1$s осталось:</string>
+</resources>
